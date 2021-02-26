@@ -1,2 +1,2 @@
 # gsod2021
-Website of Google Season of Docs 2021 for the R-Project 
+Website for planning Google Season of Docs 2021 for the R Project for Statistical Computing
